@@ -18,17 +18,32 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/vivekumarverma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn‑blue?style=for‑the‑badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:vkumarverma670@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail‑red?style=for‑the‑badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/VivekGitNinja" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="mailto:vkumarverma670@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Email_white.svg" alt="Email" height="30" width="40" />
+  </a>
+  <a href="tel:+917275285843" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Phone_white.svg" alt="Phone" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/vivek.vermaa_/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/vivekgitninja" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://vivekgitninja.github.io/Port/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio‑black?style=for‑the‑badge&logo=github&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Website_white.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/VivekGitNinja/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
