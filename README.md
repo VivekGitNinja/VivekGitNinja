@@ -12,7 +12,7 @@
 - 💡 **Driven by innovation**, fueled by caffeine ☕ and code 💻
 - 🌐 Crafting **beautiful, functional websites** and futuristic solutions
 - 📈 Creating impactful projects with **originality and purpose**
-- 🛠️ Interned at **MotionCut** & **CodSoft** | DevRel Manager @ Devnovate
+- 🛠️ Interned at **MotionCut** & **Microsoft&SAP (Edunet Foundation)** | DevRel Manager @ Devnovate
 - 🧠 Learning everyday | 🗣️ Sharing knowledge | 🎯 Chasing excellence
 
 ---
@@ -26,7 +26,7 @@
   <a href="mailto:vkumarverma670@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vivekgitninja.github.io/Port/" target="_blank">
+  <a href="https://vivekgitninja.github.io/Vivek-s-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
