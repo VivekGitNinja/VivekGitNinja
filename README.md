@@ -39,7 +39,7 @@
   <a href="https://x.com/_vivek_33" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://vivekgitninja.github.io/Port/" target="_blank">
+  <a href="https://vivekgitninja.github.io/Vivek-s-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://leetcode.com/VivekLeetNinja/" target="_blank">
