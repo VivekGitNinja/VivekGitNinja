@@ -216,26 +216,45 @@ AI-enabled vehicle data platform with:
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vivekgitninja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12" height="165"/>
+ 
+<!-- Row 1: Stats + Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgitninja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=94a3b8&border_radius=12" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=94a3b8&border_radius=12&hide=jupyter%20notebook" height="180"/>
+ 
 </div>
-
+ 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vivekgitninja&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&border_radius=12" width="70%"/>
-
+ 
+<!-- Row 2: Streak -->
+<img src="https://streak-stats.demolab.com?user=VivekGitNinja&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7c3aed&dates=94a3b8&border_radius=12&mode=weekly&card_width=700" width="60%"/>
+ 
 </div>
-
+ 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekgitninja&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f59e0b&hide_border=true&radius=8)
-
+ 
+<!-- Row 3: Activity Graph full width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGitNinja&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f59e0b&hide_border=true&radius=8&area=true&area_color=7c3aed" width="100%"/>
+ 
 </div>
+ 
+<br/>
+ 
+<!-- Row 4: Real stats summary cards -->
+<div align="center">
+ 
+| 📁 Public Repos | ⭐ Stars Earned | 👥 Followers | 🔗 Following |
+|:-:|:-:|:-:|:-:|
+| **18** | **3** | **2** | **1** |
+ 
+| 👥 Community Led | 🏆 Hackathons Organized | 🤖 ML Accuracy | 💼 Internships |
+|:-:|:-:|:-:|:-:|
+| **700+** | **3+** | **85%+** | **2** |
+ 
+</div>
+ 
 
 ---
 
