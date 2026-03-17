@@ -1,109 +1,231 @@
-<h1 align="center">🚀 VIVEK KUMAR VERMA</h1>
-<h3 align="center">Web Developer | DevRel @ Devnovate | President @HackWithIndia NIET | Tech Visionary</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Web+Developer+%7C+Community+Leader;Building+AI‑Driven+Web+Innovations;Turning+Ideas+Into+Impact" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Vivek%20Kumar%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevRel%20%7C%20Community%20Builder&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-### 💼 About Me
+<div align="center">
 
-> _“I don’t just write code, I shape digital experiences.”_
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%2B+Node.js;DevRel+Manager+%40+DevNovate+Technologies;Building+AI-Powered+Web+Systems;700%2B+Developer+Community+Leader;Open+to+SDE+%2F+Software+Engineer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- **DevRel Manager at Devnovate** — started 20 June 2025, building bridges in tech community 5  
-- **President @ HackWithIndia NIET** — fostering innovation locally  
-- Former Intern at **MotionCut** and **Edunet**, where I built meaningful tech solutions 6  
-- Passionate about AI, NLP, Web‑Dev, IoT & community building  
+</div>
 
 ---
 
-### 🌐 Connect with me
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vivekumarverma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/VivekGitNinja" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:vkumarverma670@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="tel:+917408678999">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-  </a>
-  <a href="https://www.instagram.com/_.vivek_33/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/_vivek_33" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://vivekgitninja.github.io/Vivek-s-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/VivekLeetNinja/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+🟢 &nbsp;**Open to SDE / Full Stack / Software Engineer Roles**&nbsp; 🟢
+
+📍 Greater Noida, Uttar Pradesh, India &nbsp;·&nbsp; 📧 vkumarverma670@gmail.com &nbsp;·&nbsp; 📞 +91 7408678992
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| Project                        | Description                                           |
-|-------------------------------|--------------------------------------------------------|
-| **3D Portfolio Website**       | Interactive site showcasing your design & work        |
-| **Movie Buff Central**         | Fan site with trailers, trivia & bios                 |
-| **Cricket Legends Hub**        | Legend profiles with interactive interface            |
-| **Faculty Book System (Java)** | GUI book manager for faculty                          |
-| **Vehicle Identification Sys** | AI-enabled vehicle data platform                      |
-| **Fertilizer e‑Commerce Site** | Hybrid online + offline agricultural store            |
-
-> Visit my pinned repos for live demos and source code.
+```typescript
+const vivek = {
+  name:       "Vivek Kumar Verma",
+  role:       "Full Stack Developer & DevRel Manager",
+  location:   "Greater Noida, India",
+  company:    "DevNovate Technologies",
+  community:  "HackWithIndia NIET — Chapter President",
+  stack:      ["Next.js", "Node.js", "TypeScript", "MongoDB", "Redis"],
+  currentlyBuilding: "Production-ready AI-integrated web platforms",
+  passions:   ["Full Stack Dev", "AI/ML", "Community Building", "Open Source"],
+  funFact:    "I've led 700+ devs & organized 3+ hackathons 🚀",
+  motto:      "Anyone can write code. But only a few can code the future.",
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekgitninja&show_icons=true&theme=react" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgitninja&theme=react" />
-</p>
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**AI / ML & Tools**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🧠 Focus Areas
+## 🚀 Featured Projects
 
-- Leading DevRel efforts and building tech communities  
-- Combining AI & IoT to build impactful digital products  
-- Launching full‑stack solutions people love  
-- Mentoring juniors and speaking at tech events  
-- Crafting unique startup ideas fuelled by innovation  
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ NX-913 Platform
+[![Live](https://img.shields.io/badge/Status-Live-00d4ff?style=flat-square)](https://github.com/VivekGitNinja)
+
+Production-ready **hackathon platform** with:
+- 🔐 RBAC Authentication
+- ⚡ Redis Caching + BullMQ Job Processing
+- 🤖 RAG-based AI with multi-provider failover
+
+**Stack:** `Next.js` `TypeScript` `MongoDB` `Redis` `Gemini API`
+
+</td>
+<td width="50%">
+
+### 🧠 Multi-Disease Predictor
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VivekGitNinja)
+
+ML system predicting **3 diseases** with **85%+ accuracy**:
+- 🫀 Heart Disease
+- 🩸 Diabetes
+- 🧬 Parkinson's Disease
+
+**Stack:** `Python` `scikit-learn` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Multivendor Platform
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VivekGitNinja)
+
+Full multivendor platform with:
+- 👥 Seller / Buyer Workflows
+- 📦 Product & Order Management
+- 🖥️ Bootstrap Admin Dashboard
+
+**Stack:** `PHP` `MySQLi` `Bootstrap`
+
+</td>
+<td width="50%">
+
+### 🚗 Vehicle Identification System
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VivekGitNinja)
+
+AI-enabled vehicle data platform with:
+- 🤖 Intelligent identification engine
+- 📊 Interactive data visualization
+- 🔍 Smart search & retrieval
+
+**Stack:** `JavaScript` `Node.js` `AI`
+
+</td>
+</tr>
+</table>
+
+> 📌 Visit my **[pinned repositories](https://github.com/VivekGitNinja)** for live demos and full source code.
 
 ---
 
-### ✨ Personal Motto
+## 💼 Professional Experience
 
-> _“Anyone can write code. But only a few can code the **future**.”_
+**🏢 DevNovate Technologies** &nbsp;|&nbsp; *Developer Relations (DevRel) Manager* &nbsp;|&nbsp; `Jun 2025 – Present`
 
-<p align="center">
-  🚀 Let’s Connect & Create Something Legendary  
-</p>
+> Connecting developer communities across India — creating technical content, representing developer needs, and nurturing a vibrant ecosystem of innovators at DevNovate Technologies Pvt. Ltd.
+
+---
+
+**🏢 Microsoft & SAP via Edunet Foundation (TechSaksham)** &nbsp;|&nbsp; *AI Intern* &nbsp;|&nbsp; `Feb 2025 – May 2025`
+
+> Built a production-ready ML medical assistant — full pipeline: data preprocessing, model training, evaluation, and real-time Streamlit inference. Achieved **85%+ accuracy** across 3 diseases.
+
+---
+
+## 🏆 Achievements & Community
+
+| 🏅 Achievement | 📋 Details |
+|---|---|
+| 🛸 **ISRO Bharatiya Antariksh Hackathon 2025** | Submitted space-tech solution to ISRO's national hackathon |
+| 🌍 **GDG Solution Challenge 2025** | Developed social impact solution for Google Developer Groups global challenge |
+| 👥 **HackWithIndia NIET — Chapter President** | Led **700+ member** community; organized **3+ hackathons** (200+ participants) |
+| 🎖️ **OpenCode '24 — IIIT Allahabad** | Open-source contributor; awarded Certificate of Appreciation by GeekHaven |
+| 📣 **INNOVA 2024 — Campus Rep (GDG GCET)** | Drove registrations via social media; earned Letter of Recommendation |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivekgitninja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgitninja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=94a3b8&border_radius=12" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vivekgitninja&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&border_radius=12" width="70%"/>
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekgitninja&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f59e0b&hide_border=true&radius=8)
+
+</div>
+
+---
+
+## 🎯 What I'm Building Towards
+
+```
+🌐  Scalable Full Stack Web Systems
+🤖  AI / ML Integrated Production Applications  
+🏗️  Developer Community & DevRel Leadership
+🔗  IoT & Emerging Technology Products
+🚀  Startup Ideas Fuelled by Innovation
+🎤  Speaking & Mentoring at Tech Events
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekumarverma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekGitNinja)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekgitninja.github.io/Vivek-s-Portfolio)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_vivek_33)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VivekLeetNinja/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkumarverma670@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.vivek_33/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=120&section=footer&text=%22Anyone%20can%20write%20code.%20But%20only%20a%20few%20can%20code%20the%20future.%22&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
