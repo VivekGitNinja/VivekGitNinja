@@ -23,21 +23,65 @@
 ---
 
 ## 👨‍💻 About Me
-
+ 
+<table>
+<tr>
+<td valign="top" width="55%">
+ 
+### Hi there, I'm Vivek 👋
+ 
+I'm a **Full Stack Developer** and **DevRel Manager** from Greater Noida, India — passionate about turning ambitious ideas into production-ready systems.
+ 
+🔭 &nbsp;**Currently building** → [NX-913](https://github.com/VivekGitNinja) — an AI-powered hackathon platform with RAG, Redis & BullMQ  
+🌱 &nbsp;**Deepening skills in** → System Design, TypeScript, Advanced Next.js  
+👥 &nbsp;**Leading** → 700+ member community at HackWithIndia NIET  
+💼 &nbsp;**Working at** → DevNovate Technologies as DevRel Manager  
+🏆 &nbsp;**Competed in** → ISRO Bharatiya Antariksh Hackathon 2025 & GDG Solution Challenge 2025  
+🤖 &nbsp;**Built** → Multi-Disease ML Predictor with 85%+ accuracy (Edunet × Microsoft × SAP)  
+📬 &nbsp;**Reach me at** → [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)  
+⚡ &nbsp;**Fun fact** → I organize hackathons *and* compete in them 🚀
+ 
+<br/>
+ 
+```text
+💡  Problem Solver          ████████████░░  90%
+🌐  Full Stack Dev          ██████████░░░░  75%
+🤖  AI / ML                 ████████░░░░░░  60%
+👥  Community Building      █████████████░  95%
+🎤  Public Speaking         ████████░░░░░░  65%
+```
+ 
+</td>
+<td valign="top" width="45%" align="center">
+ 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/><br/><br/>
+ 
+**📍 Greater Noida, UP, India**
+ 
+[![LinkedIn](https://img.shields.io/badge/-vivekumarverma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekumarverma)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=flat-square&logo=firefox&logoColor=white)](https://vivekgitninja.github.io/Vivek-s-Portfolio)
+[![LeetCode](https://img.shields.io/badge/-VivekLeetNinja-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/VivekLeetNinja/)
+[![Twitter](https://img.shields.io/badge/-@_vivek__33-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_vivek_33)
+ 
+<br/>
+ 
 ```typescript
 const vivek = {
-  name:       "Vivek Kumar Verma",
-  role:       "Full Stack Developer & DevRel Manager",
-  location:   "Greater Noida, India",
-  company:    "DevNovate Technologies",
-  community:  "HackWithIndia NIET — Chapter President",
-  stack:      ["Next.js", "Node.js", "TypeScript", "MongoDB", "Redis"],
-  currentlyBuilding: "Production-ready AI-integrated web platforms",
-  passions:   ["Full Stack Dev", "AI/ML", "Community Building", "Open Source"],
-  funFact:    "I've led 700+ devs & organized 3+ hackathons 🚀",
-  motto:      "Anyone can write code. But only a few can code the future.",
+  name    : "Vivek Kumar Verma",
+  handle  : "@VivekGitNinja",
+  repos   : 18,        // public repos
+  stars   : 3,         // GitHub stars
+  followers: 2,        // & growing 📈
+  community: "700+",   // devs led
+  motto   : "Code the future. 🚀",
 };
 ```
+ 
+</td>
+</tr>
+</table>
+ 
+---
 
 ---
 
