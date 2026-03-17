@@ -16,7 +16,7 @@
 
 🟢 &nbsp;**Open to SDE / Full Stack / Software Engineer Roles**&nbsp; 🟢
 
-📍 Greater Noida, Uttar Pradesh, India &nbsp;·&nbsp; 📧 vkumarverma670@gmail.com &nbsp;·&nbsp; 📞 +91 7408678992
+📍 Greater Noida, Uttar Pradesh, India &nbsp;·&nbsp; 📧 vkumarverma670@gmail.com &nbsp;·&nbsp; 
 
 </div>
 
