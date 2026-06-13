@@ -200,11 +200,11 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
 
 ---
 
-## Live GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<p><b>Auto-updating from GitHub activity</b> — these cards refresh as I commit, contribute, and push new work.</p>
+<p><b>Public GitHub data</b> — these cards refresh from GitHub's APIs, so updates can lag a little behind new commits and contributions.</p>
 
 <table>
   <tr>
@@ -277,32 +277,6 @@ Focus Areas:
 - Student Innovation
 - Community-Led Product Building
 ```
-
----
-
-## Live GitHub Analytics
-
-<div align="center">
-
-<p><b>Auto-updating from GitHub activity</b> — these cards refresh as I commit, contribute, and push new work.</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGitNinja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
