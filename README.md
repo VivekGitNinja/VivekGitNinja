@@ -2,47 +2,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Vivek%20Kumar%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevRel%20%7C%20Community%20Builder&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%2B+Node.js;DevRel+Manager+%40+DevNovate+Technologies;Building+AI-Powered+Web+Systems;700%2B+Developer+Community+Leader;Open+to+SDE+%2F+Software+Engineer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
 
 🟢 &nbsp;**Open to SDE / Full Stack / Software Engineer Roles**&nbsp; 🟢
 
-📍 Greater Noida, Uttar Pradesh, India &nbsp;·&nbsp; 📧 vkumarverma670@gmail.com &nbsp;·&nbsp; 
+📍 Greater Noida, Uttar Pradesh, India &nbsp;·&nbsp; 📧 [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
- 
+
 <table>
 <tr>
 <td valign="top" width="55%">
- 
+
 ### Hi there, I'm Vivek 👋
- 
+
 I'm a **Full Stack Developer** and **DevRel Manager** from Greater Noida, India — passionate about turning ambitious ideas into production-ready systems.
- 
-🔭 &nbsp;**Currently building** → [NX-913](https://github.com/VivekGitNinja) — an AI-powered hackathon platform with RAG, Redis & BullMQ  
-🌱 &nbsp;**Deepening skills in** → System Design, TypeScript, Advanced Next.js  
-👥 &nbsp;**Leading** → 700+ member community at HackWithIndia NIET  
-💼 &nbsp;**Working at** → DevNovate Technologies as DevRel Manager  
-🏆 &nbsp;**Competed in** → ISRO Bharatiya Antariksh Hackathon 2025 & GDG Solution Challenge 2025  
-🤖 &nbsp;**Built** → Multi-Disease ML Predictor with 85%+ accuracy (Edunet × Microsoft × SAP)  
-📬 &nbsp;**Reach me at** → [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)  
+
+🔭 &nbsp;**Currently building** → [NX-913](https://github.com/VivekGitNinja) — an AI-powered hackathon platform with RAG, Redis & BullMQ
+🌱 &nbsp;**Deepening skills in** → System Design, TypeScript, Advanced Next.js
+👥 &nbsp;**Leading** → 700+ member community at HackWithIndia NIET
+💼 &nbsp;**Working at** → DevNovate Technologies as DevRel Manager
+🏆 &nbsp;**Competed in** → ISRO Bharatiya Antariksh Hackathon 2025 & GDG Solution Challenge 2025
+🤖 &nbsp;**Built** → Multi-Disease ML Predictor with 85%+ accuracy (Edunet × Microsoft × SAP)
+📬 &nbsp;**Reach me at** → [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)
 ⚡ &nbsp;**Fun fact** → I organize hackathons *and* compete in them 🚀
- 
+
 <br/>
- 
+
 ```text
 💡  Problem Solver          ████████████░░  90%
 🌐  Full Stack Dev          ██████████░░░░  75%
@@ -50,38 +40,35 @@ I'm a **Full Stack Developer** and **DevRel Manager** from Greater Noida, India 
 👥  Community Building      █████████████░  95%
 🎤  Public Speaking         ████████░░░░░░  65%
 ```
- 
+
 </td>
 <td valign="top" width="45%" align="center">
- 
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/><br/><br/>
- 
+
 **📍 Greater Noida, UP, India**
- 
+
 [![LinkedIn](https://img.shields.io/badge/-vivekumarverma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekumarverma)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=flat-square&logo=firefox&logoColor=white)](https://vivekgitninja.github.io/Vivek-s-Portfolio)
 [![LeetCode](https://img.shields.io/badge/-VivekLeetNinja-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/VivekLeetNinja/)
 [![Twitter](https://img.shields.io/badge/-@_vivek__33-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_vivek_33)
- 
+
 <br/>
- 
+
 ```typescript
 const vivek = {
-  name    : "Vivek Kumar Verma",
-  handle  : "@VivekGitNinja",
-  repos   : 18,        // public repos
-  stars   : 3,         // GitHub stars
-  followers: 2,        // & growing 📈
-  community: "700+",   // devs led
-  motto   : "Code the future. 🚀",
+  name     : "Vivek Kumar Verma",
+  handle   : "@VivekGitNinja",
+  role     : "Full Stack Dev | DevRel",
+  community: "700+",          // devs led
+  focus    : ["Next.js", "Node.js", "AI/ML"],
+  motto    : "Code the future. 🚀",
 };
 ```
- 
+
 </td>
 </tr>
 </table>
- 
----
 
 ---
 
@@ -193,9 +180,7 @@ AI-enabled vehicle data platform with:
 
 **🏢 DevNovate Technologies** &nbsp;|&nbsp; *Developer Relations (DevRel) Manager* &nbsp;|&nbsp; `Jun 2025 – Present`
 
-> Connecting developer communities across India — creating technical content, representing developer needs, and nurturing a vibrant ecosystem of innovators at DevNovate Technologies Pvt. Ltd.
-
----
+> Connecting developer communities across India — creating technical content, representing developer needs, and nurturing a vibrant ecosystem of innovators.
 
 **🏢 Microsoft & SAP via Edunet Foundation (TechSaksham)** &nbsp;|&nbsp; *AI Intern* &nbsp;|&nbsp; `Feb 2025 – May 2025`
 
@@ -208,7 +193,7 @@ AI-enabled vehicle data platform with:
 | 🏅 Achievement | 📋 Details |
 |---|---|
 | 🛸 **ISRO Bharatiya Antariksh Hackathon 2025** | Submitted space-tech solution to ISRO's national hackathon |
-| 🌍 **GDG Solution Challenge 2025** | Developed social impact solution for Google Developer Groups global challenge |
+| 🌍 **GDG Solution Challenge 2025** | Developed social impact solution for Google's global challenge |
 | 👥 **HackWithIndia NIET — Chapter President** | Led **700+ member** community; organized **3+ hackathons** (200+ participants) |
 | 🎖️ **OpenCode '24 — IIIT Allahabad** | Open-source contributor; awarded Certificate of Appreciation by GeekHaven |
 | 📣 **INNOVA 2024 — Campus Rep (GDG GCET)** | Drove registrations via social media; earned Letter of Recommendation |
@@ -216,45 +201,18 @@ AI-enabled vehicle data platform with:
 ---
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
-<!-- Row 1: Stats + Languages side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=94a3b8&border_radius=12&hide=jupyter%20notebook" height="180"/>
- 
-</div>
- 
-<div align="center">
- 
-<!-- Row 2: Streak -->
+
 <img src="https://streak-stats.demolab.com?user=VivekGitNinja&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7c3aed&dates=94a3b8&border_radius=12&mode=weekly&card_width=700" width="60%"/>
- 
-</div>
- 
-<div align="center">
- 
-<!-- Row 3: Activity Graph full width -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGitNinja&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f59e0b&hide_border=true&radius=8&area=true&area_color=7c3aed" width="100%"/>
- 
+
 </div>
- 
-<br/>
- 
-<!-- Row 4: Real stats summary cards -->
-<div align="center">
- 
-| 📁 Public Repos | ⭐ Stars Earned | 👥 Followers | 🔗 Following |
-|:-:|:-:|:-:|:-:|
-| **18** | **3** | **2** | **1** |
- 
-| 👥 Community Led | 🏆 Hackathons Organized | 🤖 ML Accuracy | 💼 Internships |
-|:-:|:-:|:-:|:-:|
-| **700+** | **3+** | **85%+** | **2** |
- 
-</div>
- 
 
 ---
 
@@ -262,7 +220,7 @@ AI-enabled vehicle data platform with:
 
 ```
 🌐  Scalable Full Stack Web Systems
-🤖  AI / ML Integrated Production Applications  
+🤖  AI / ML Integrated Production Applications
 🏗️  Developer Community & DevRel Leadership
 🔗  IoT & Emerging Technology Products
 🚀  Startup Ideas Fuelled by Innovation
@@ -285,9 +243,9 @@ AI-enabled vehicle data platform with:
 
 </div>
 
----
-
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=VivekGitNinja&label=Profile%20Views&color=00d4ff&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=120&section=footer&text=%22Anyone%20can%20write%20code.%20But%20only%20a%20few%20can%20code%20the%20future.%22&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
