@@ -169,7 +169,6 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
       <p>Machine learning project for diabetes, heart disease, and Parkinson’s prediction with a real-time Streamlit UI.</p>
       <p><b>Stack:</b> Python, scikit-learn, Streamlit, ML models</p>
       <p>
-        <img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" />
       </p>
@@ -185,20 +184,27 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" />
         <img src="https://img.shields.io/badge/BullMQ-F97316?style=flat-square" />
       </p>
+## Live GitHub Analytics
+
+<div align="center">
+
+<p><b>Auto-updating from GitHub activity</b> — these cards refresh as I commit, contribute, and push new work.</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img height="175" src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td width="50%" valign="top">
-      <h3>Ecommerce Multivendor</h3>
-      <p>Multi-vendor ecommerce platform with product listing, details, dashboards, forms, and responsive UI.</p>
-      <p><b>Stack:</b> PHP, MySQLi, Bootstrap, JavaScript</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" />
-      </p>
+      <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGitNinja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## Experience
@@ -255,18 +261,27 @@ Focus Areas:
 
 ---
 
-## GitHub Analytics
+## Live GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGitNinja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p><b>Auto-updating from GitHub activity</b> — these cards refresh as I commit, contribute, and push new work.</p>
 
-</div>
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img height="175" src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGitNinja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
