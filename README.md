@@ -184,6 +184,22 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" />
         <img src="https://img.shields.io/badge/BullMQ-F97316?style=flat-square" />
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Ecommerce Multivendor</h3>
+      <p>Multi-vendor ecommerce platform with product listing, details, dashboards, forms, and responsive UI.</p>
+      <p><b>Stack:</b> PHP, MySQLi, Bootstrap, JavaScript</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Live GitHub Analytics
 
 <div align="center">
@@ -205,6 +221,9 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
     </td>
   </tr>
 </table>
+
+</div>
+
 ---
 
 ## Experience
