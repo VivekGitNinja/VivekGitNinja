@@ -59,14 +59,54 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
 
 ## What I’m Building Toward
 
-```txt
-Full-Stack Development   ████████████████████░   90%
-Backend APIs             ██████████████████░░░   85%
-Developer Relations      ██████████████████░░░   85%
-AI Integrations          ████████████████░░░░░   75%
-System Design            ██████████████░░░░░░░   70%
-DSA with Java            █████████████░░░░░░░░   65%
-```
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <h3>Current Focus</h3>
+      <p>These are the areas I’m actively sharpening while building products and leading communities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Shipping-Full--Stack-0EA5E9?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/API%20Craft-14B8A6?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/AI%20Workflows-F59E0B?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="66%" valign="top">
+      <h3>Skill Growth Snapshot</h3>
+      <table>
+        <tr>
+          <td><b>Full-Stack Development</b></td>
+          <td width="45%"><progress value="90" max="100"></progress></td>
+          <td align="right"><b>90%</b></td>
+        </tr>
+        <tr>
+          <td><b>Backend APIs</b></td>
+          <td><progress value="85" max="100"></progress></td>
+          <td align="right"><b>85%</b></td>
+        </tr>
+        <tr>
+          <td><b>Developer Relations</b></td>
+          <td><progress value="85" max="100"></progress></td>
+          <td align="right"><b>85%</b></td>
+        </tr>
+        <tr>
+          <td><b>AI Integrations</b></td>
+          <td><progress value="75" max="100"></progress></td>
+          <td align="right"><b>75%</b></td>
+        </tr>
+        <tr>
+          <td><b>System Design</b></td>
+          <td><progress value="70" max="100"></progress></td>
+          <td align="right"><b>70%</b></td>
+        </tr>
+        <tr>
+          <td><b>DSA with Java</b></td>
+          <td><progress value="65" max="100"></progress></td>
+          <td align="right"><b>65%</b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
