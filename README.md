@@ -1,34 +1,287 @@
-<!-- Hero Banner -->
+# Vivek Kumar Verma
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Vivek_Kumar_Verma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=%3C%20Architecting%20Scalable%20Systems%20/%3E&descAlignY=65&descColor=00d4ff&animation=twinkling" width="100%"/>
-  
-  <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+;Developer+Relations+(DevRel)+Leader+;Founder+%40+NX-913+Platform+;Building+AI-Powered+Microservices+)](https://git.io/typing-svg)
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:7C3AED,70:00D4FF,100:22C55E&height=240&section=header&text=Vivek%20Kumar%20Verma&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20DevRel%20Manager%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
-  <br/>
+	<p>
+		<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=980&lines=Final-Year+CSE+Student+%40+NIET+Greater+Noida;Full-Stack+Developer+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Developer+Relations+Manager+%40+DevNovate;President+%40+HackWithIndia+NIET;Building+NX-913+%E2%80%94+AI-Powered+Hackathon+Platform" alt="Typing SVG" />
+	</p>
 
-  <!-- Social Icons (SkillIcons) -->
-  <a href="mailto:vkumarverma670@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/vivekumarverma"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/VivekGitNinja"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/_vivek_33"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>&nbsp;&nbsp;
-  <a href="https://vivekgitninja.github.io/Vivek-s-Portfolio"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="Portfolio"/></a>
+	<p>
+		<a href="mailto:vkumarverma670@gmail.com"><img src="https://img.shields.io/badge/Email-vkumarverma670%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+		<a href="https://linkedin.com/in/vivekumarverma"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Kumar%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+		<a href="https://github.com/VivekGitNinja"><img src="https://img.shields.io/badge/GitHub-VivekGitNinja-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+		<a href="https://vivekverma.dev"><img src="https://img.shields.io/badge/Portfolio-vivekverma.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+		<a href="https://x.com/_vivek_33"><img src="https://img.shields.io/badge/X-_vivek__33-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+	</p>
+
+	<p>
+		<img src="https://komarev.com/ghpvc/?username=VivekGitNinja&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+		<img src="https://img.shields.io/github/followers/VivekGitNinja?label=Followers&style=for-the-badge&color=00D4FF" />
+		<img src="https://img.shields.io/badge/Open%20To-SDE%20%7C%20Full--Stack%20%7C%20DevRel-22C55E?style=for-the-badge" />
+	</p>
+
 </div>
 
 ---
 
-### 💻 `whoami`
+## About
+
+<table>
+	<tr>
+		<td width="68%" valign="top">
+
+I’m **Vivek Kumar Verma**, a final-year **Computer Science Engineering** student at **NIET Greater Noida** who likes building products that feel fast, useful, and polished.
+
+I work across **Next.js, React, TypeScript, Node.js, Express, MongoDB, Redis, and BullMQ**, with a focus on full-stack platforms, scalable backend systems, AI-powered workflows, and developer experience.
+
+Right now, I’m working as a **Developer Relations Manager at DevNovate** and leading **HackWithIndia NIET Chapter**, a student developer community of **700+ members**.
+
+- Currently building **NX-913**, an AI-powered hackathon and event platform
+- Learning **System Design, DSA, Cloud, and AI integrations**
+- Interested in **SDE, Full-Stack, and DevRel Engineering** roles
+- Active in **hackathons, workshops, and community-led product building**
+
+		</td>
+		<td width="32%" valign="top">
 
 ```json
 {
-  "developer": "Vivek Kumar Verma",
-  "location": "Greater Noida, India",
-  "current_roles": [
-    "Founder & Lead Architect @ NX-913",
-    "DevRel Manager @ DevNovate Technologies"
-  ],
-  "mission": "Translating complex logic into elegant, high-throughput distributed systems.",
-  "community_impact": "Leading HackWithIndia NIET (700+ Engineers Ecosystem)",
-  "open_to": ["SDE", "Full Stack Roles", "DevRel Engineering"]
+	"location": "Greater Noida, India",
+	"education": "B.Tech CSE, NIET Greater Noida",
+	"core_stack": ["Next.js", "React", "TypeScript", "Node.js", "Express.js", "MongoDB", "Redis", "BullMQ"],
+	"open_to": ["SDE Internships", "Full-Stack Roles", "DevRel Engineering Roles"],
+	"community_impact": "Leading a 700+ member student developer community"
 }
+```
+
+		</td>
+	</tr>
+</table>
+
+---
+
+## Current Focus
+
+```txt
+Full-Stack Development   ████████████████████░   90%
+Backend APIs             ██████████████████░░░   85%
+Developer Relations      ██████████████████░░░   85%
+AI Integrations          ████████████████░░░░░   75%
+System Design            ██████████████░░░░░░░   70%
+DSA with Java            █████████████░░░░░░░░   65%
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<table>
+	<tr>
+		<td align="center" width="25%">
+			<h3>Languages</h3>
+			<p>
+				<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" height="56" />
+			</p>
+		</td>
+		<td align="center" width="25%">
+			<h3>Frontend</h3>
+			<p>
+				<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" height="56" />
+			</p>
+		</td>
+		<td align="center" width="25%">
+			<h3>Backend</h3>
+			<p>
+				<img src="https://skillicons.dev/icons?i=nodejs,express,php" height="56" />
+			</p>
+		</td>
+		<td align="center" width="25%">
+			<h3>Data & Tools</h3>
+			<p>
+				<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,vscode,vercel,postman,docker" height="56" />
+			</p>
+		</td>
+	</tr>
+</table>
+
+</div>
+
+### Strengths
+
+<table>
+	<tr>
+		<td align="center"><b>Frontend</b><br/>React, Next.js, Tailwind, responsive UI</td>
+		<td align="center"><b>Backend</b><br/>Node.js, Express, REST APIs, auth, queues</td>
+		<td align="center"><b>Data</b><br/>MongoDB, MySQL, Redis, caching</td>
+		<td align="center"><b>DevRel</b><br/>Community, events, workshops, content</td>
+	</tr>
+</table>
+
+---
+
+## Featured Work
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>NX-913</h3>
+			<p>AI-powered event and hackathon management platform with registrations, approvals, admin workflows, certificates, guest passes, and an AI assistant.</p>
+			<p><b>Stack:</b> Next.js, TypeScript, Node.js, Express, MongoDB, Redis, BullMQ, AI APIs</p>
+			<p>
+				<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=flat-square" />
+				<img src="https://img.shields.io/badge/AI-00D4FF?style=flat-square" />
+				<img src="https://img.shields.io/badge/Production--Ready-22C55E?style=flat-square" />
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>Multi-Disease Prediction System</h3>
+			<p>Machine learning project for diabetes, heart disease, and Parkinson’s prediction with a real-time Streamlit UI.</p>
+			<p><b>Stack:</b> Python, scikit-learn, Streamlit, ML models</p>
+			<p>
+				<img src="https://img.shields.io/badge/Machine%20Learning-A855F7?style=flat-square" />
+				<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+				<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square" />
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>Veda-AI</h3>
+			<p>Full-stack AI assignment platform with prompt-based generation, PDF export, queue workers, WebSocket progress, and a responsive interface.</p>
+			<p><b>Stack:</b> Next.js, Express TS, MongoDB, Redis, BullMQ</p>
+			<p>
+				<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square" />
+				<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" />
+				<img src="https://img.shields.io/badge/BullMQ-F97316?style=flat-square" />
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>Ecommerce Multivendor</h3>
+			<p>Multi-vendor ecommerce platform with product listing, details, dashboards, forms, and responsive UI.</p>
+			<p><b>Stack:</b> PHP, MySQLi, Bootstrap, JavaScript</p>
+			<p>
+				<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
+				<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
+				<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" />
+			</p>
+		</td>
+	</tr>
+</table>
+
+---
+
+## Experience & Leadership
+
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>Developer Relations Manager</h3>
+			<p><b>DevNovate</b></p>
+			<p>Developer outreach, community programs, technical content, hackathons, workshops, and ecosystem engagement.</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>President</h3>
+			<p><b>HackWithIndia NIET Chapter</b></p>
+			<p>Leading a 700+ member student developer community through workshops, hackathons, speaker sessions, and technical events.</p>
+		</td>
+	</tr>
+</table>
+
+---
+
+## Community & What I Build
+
+<table>
+	<tr>
+		<td width="33%" align="center">
+			<h3>Full-Stack Platforms</h3>
+			<p>Modern web apps with clean UI, strong backend logic, and scalable architecture.</p>
+		</td>
+		<td width="33%" align="center">
+			<h3>AI-Powered Products</h3>
+			<p>AI assistants, prompt-based workflows, RAG systems, and automation tools.</p>
+		</td>
+		<td width="33%" align="center">
+			<h3>Developer Communities</h3>
+			<p>Hackathons, workshops, student programs, and ecosystem growth.</p>
+		</td>
+	</tr>
+</table>
+
+```txt
+Developer Relations Manager @ DevNovate
+President @ HackWithIndia NIET Chapter
+700+ member student developer community
+
+Focus Areas:
+- Hackathons
+- Workshops
+- Speaker Sessions
+- Developer Outreach
+- Student Innovation
+- Community-Led Product Building
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+	<img height="175" src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+	<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=VivekGitNinja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+	<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGitNinja&theme=tokyo-night&hide_border=true&area=true&custom_title=Vivek%20Kumar%20Verma's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+	<img src="https://github-profile-trophy.vercel.app/?username=VivekGitNinja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+	<a href="mailto:vkumarverma670@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://linkedin.com/in/vivekumarverma"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://vivekverma.dev"><img src="https://img.shields.io/badge/View-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+	<a href="https://github.com/VivekGitNinja"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+	<h3>Building. Learning. Shipping. Growing.</h3>
+	<p><b>Thanks for visiting my GitHub profile.</b></p>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:7C3AED,100:00D4FF&height=130&section=footer" width="100%" />
+
+</div>
