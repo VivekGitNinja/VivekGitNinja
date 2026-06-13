@@ -1,252 +1,43 @@
-<div align="center">
+# Vivek Kumar Verma
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Vivek%20Kumar%20Verma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevRel%20%7C%20Community%20Builder&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
+Full-stack software engineer, developer relations advocate, and community builder. I specialize in building distributed web systems, AI-integrated infrastructure, and tooling that empowers developer ecosystems. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%2B+Node.js;DevRel+Manager+%40+DevNovate+Technologies;Building+AI-Powered+Web+Systems;700%2B+Developer+Community+Leader;Open+to+SDE+%2F+Software+Engineer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-🟢 &nbsp;**Open to SDE / Full Stack / Software Engineer Roles**&nbsp; 🟢
-
-📍 Greater Noida, Uttar Pradesh, India &nbsp;·&nbsp; 📧 [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)
-
-</div>
+[Portfolio](https://vivekgitninja.github.io/Vivek-s-Portfolio) · [LinkedIn](https://www.linkedin.com/in/vivekumarverma) · [X (Twitter)](https://x.com/_vivek_33) · [LeetCode](https://leetcode.com/VivekLeetNinja/)
 
 ---
 
-## 👨‍💻 About Me
+### Currently
 
-<table>
-<tr>
-<td valign="top" width="55%">
+- **Building [NX-913](https://github.com/VivekGitNinja):** Founder and lead architect of an AI-orchestrated hackathon management and skill validation platform. Built for high concurrency using Next.js, Redis, BullMQ, and custom RAG evaluation models.
+- **Developing TRAP UI:** Engineering a data-driven trend research and analytics platform designed to ingest and track UI/UX layout telemetry in real-time.
+- **Growing Ecosystems:** Leading an active community of over 700 developers as Chapter President for HackWithIndia NIET, organizing large-scale campus hackathons.
+- **Advocating for Developers:** Working as a DevRel Manager at DevNovate Technologies, bridging the gap between open-source community feedback and core product engineering.
 
-### Hi there, I'm Vivek 👋
+### Experience
 
-I'm a **Full Stack Developer** and **DevRel Manager** from Greater Noida, India — passionate about turning ambitious ideas into production-ready systems.
+- **Software Engineer Intern** at **NTT DATA**  
+  Focused on internal codebase modernization, system layout testing, and architectural refactoring within enterprise-grade software environments.
 
-🔭 &nbsp;**Currently building** → [NX-913](https://github.com/VivekGitNinja) — an AI-powered hackathon platform with RAG, Redis & BullMQ
-🌱 &nbsp;**Deepening skills in** → System Design, TypeScript, Advanced Next.js
-👥 &nbsp;**Leading** → 700+ member community at HackWithIndia NIET
-💼 &nbsp;**Working at** → DevNovate Technologies as DevRel Manager
-🏆 &nbsp;**Competed in** → ISRO Bharatiya Antariksh Hackathon 2025 & GDG Solution Challenge 2025
-🤖 &nbsp;**Built** → Multi-Disease ML Predictor with 85%+ accuracy (Edunet × Microsoft × SAP)
-📬 &nbsp;**Reach me at** → [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)
-⚡ &nbsp;**Fun fact** → I organize hackathons *and* compete in them 🚀
+- **AI Engineering Intern** at **Edunet Foundation (Microsoft & SAP)**  
+  Engineered and deployed a production-ready medical ML pipeline achieving 85%+ classification accuracy for chronic diseases, utilizing Python, Scikit-Learn, and Streamlit.
 
-<br/>
+- **Web Development Intern** at **MotionCut**  
+  Shipped responsive UI components, optimized logic state handlers, and standard semantic markup for custom web platforms.
 
-```text
-💡  Problem Solver          ████████████░░  90%
-🌐  Full Stack Dev          ██████████░░░░  75%
-🤖  AI / ML                 ████████░░░░░░  60%
-👥  Community Building      █████████████░  95%
-🎤  Public Speaking         ████████░░░░░░  65%
-```
+### Technologies
 
-</td>
-<td valign="top" width="45%" align="center">
+I prefer using the right tool for the job, but my core stack involves:
+- **Languages:** `TypeScript`, `JavaScript`, `Python`, `Java`, `C/C++`, `PHP`
+- **Frameworks:** `Next.js`, `Node.js`, `Express`, `React`, `Tailwind CSS`
+- **Infrastructure & Data:** `Redis`, `MongoDB`, `MySQL`, `BullMQ`, `Git`, `Linux`
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/><br/><br/>
+### Select Open Source & Hackathons
 
-**📍 Greater Noida, UP, India**
-
-[![LinkedIn](https://img.shields.io/badge/-vivekumarverma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekumarverma)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00d4ff?style=flat-square&logo=firefox&logoColor=white)](https://vivekgitninja.github.io/Vivek-s-Portfolio)
-[![LeetCode](https://img.shields.io/badge/-VivekLeetNinja-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/VivekLeetNinja/)
-[![Twitter](https://img.shields.io/badge/-@_vivek__33-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_vivek_33)
-
-<br/>
-
-```typescript
-const vivek = {
-  name     : "Vivek Kumar Verma",
-  handle   : "@VivekGitNinja",
-  role     : "Full Stack Dev | DevRel",
-  community: "700+",          // devs led
-  focus    : ["Next.js", "Node.js", "AI/ML"],
-  motto    : "Code the future. 🚀",
-};
-```
-
-</td>
-</tr>
-</table>
+- **ISRO Bharatiya Antariksh Hackathon 2025:** Formulated and submitted deep-tech space telemetry models.
+- **GDG Solution Challenge 2025:** Architected open-source microservices mapping to global sustainability goals.
+- **OpenCode '24 (IIIT-Allahabad):** Recognized open-source contributor, awarded Certificate of Appreciation by the GeekHaven core team.
 
 ---
 
-## ⚡ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**AI / ML & Tools**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛰️ NX-913 Platform
-[![Live](https://img.shields.io/badge/Status-Live-00d4ff?style=flat-square)](https://github.com/VivekGitNinja)
-
-Production-ready **hackathon platform** with:
-- 🔐 RBAC Authentication
-- ⚡ Redis Caching + BullMQ Job Processing
-- 🤖 RAG-based AI with multi-provider failover
-
-**Stack:** `Next.js` `TypeScript` `MongoDB` `Redis` `Gemini API`
-
-</td>
-<td width="50%">
-
-### 🧠 Multi-Disease Predictor
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VivekGitNinja)
-
-ML system predicting **3 diseases** with **85%+ accuracy**:
-- 🫀 Heart Disease
-- 🩸 Diabetes
-- 🧬 Parkinson's Disease
-
-**Stack:** `Python` `scikit-learn` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Multivendor Platform
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VivekGitNinja)
-
-Full multivendor platform with:
-- 👥 Seller / Buyer Workflows
-- 📦 Product & Order Management
-- 🖥️ Bootstrap Admin Dashboard
-
-**Stack:** `PHP` `MySQLi` `Bootstrap`
-
-</td>
-<td width="50%">
-
-### 🚗 Vehicle Identification System
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/VivekGitNinja)
-
-AI-enabled vehicle data platform with:
-- 🤖 Intelligent identification engine
-- 📊 Interactive data visualization
-- 🔍 Smart search & retrieval
-
-**Stack:** `JavaScript` `Node.js` `AI`
-
-</td>
-</tr>
-</table>
-
-> 📌 Visit my **[pinned repositories](https://github.com/VivekGitNinja)** for live demos and full source code.
-
----
-
-## 💼 Professional Experience
-
-**🏢 DevNovate Technologies** &nbsp;|&nbsp; *Developer Relations (DevRel) Manager* &nbsp;|&nbsp; `Jun 2025 – Present`
-
-> Connecting developer communities across India — creating technical content, representing developer needs, and nurturing a vibrant ecosystem of innovators.
-
-**🏢 Microsoft & SAP via Edunet Foundation (TechSaksham)** &nbsp;|&nbsp; *AI Intern* &nbsp;|&nbsp; `Feb 2025 – May 2025`
-
-> Built a production-ready ML medical assistant — full pipeline: data preprocessing, model training, evaluation, and real-time Streamlit inference. Achieved **85%+ accuracy** across 3 diseases.
-
----
-
-## 🏆 Achievements & Community
-
-| 🏅 Achievement | 📋 Details |
-|---|---|
-| 🛸 **ISRO Bharatiya Antariksh Hackathon 2025** | Submitted space-tech solution to ISRO's national hackathon |
-| 🌍 **GDG Solution Challenge 2025** | Developed social impact solution for Google's global challenge |
-| 👥 **HackWithIndia NIET — Chapter President** | Led **700+ member** community; organized **3+ hackathons** (200+ participants) |
-| 🎖️ **OpenCode '24 — IIIT Allahabad** | Open-source contributor; awarded Certificate of Appreciation by GeekHaven |
-| 📣 **INNOVA 2024 — Campus Rep (GDG GCET)** | Drove registrations via social media; earned Letter of Recommendation |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=94a3b8&border_radius=12&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=94a3b8&border_radius=12&hide=jupyter%20notebook" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=VivekGitNinja&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=7c3aed&dates=94a3b8&border_radius=12&mode=weekly&card_width=700" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGitNinja&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f59e0b&hide_border=true&radius=8&area=true&area_color=7c3aed" width="100%"/>
-
-</div>
-
----
-
-## 🎯 What I'm Building Towards
-
-```
-🌐  Scalable Full Stack Web Systems
-🤖  AI / ML Integrated Production Applications
-🏗️  Developer Community & DevRel Leadership
-🔗  IoT & Emerging Technology Products
-🚀  Startup Ideas Fuelled by Innovation
-🎤  Speaking & Mentoring at Tech Events
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekumarverma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekGitNinja)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekgitninja.github.io/Vivek-s-Portfolio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_vivek_33)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VivekLeetNinja/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkumarverma670@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.vivek_33/)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=VivekGitNinja&label=Profile%20Views&color=00d4ff&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=120&section=footer&text=%22Anyone%20can%20write%20code.%20But%20only%20a%20few%20can%20code%20the%20future.%22&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
+*Open to SDE, Full-Stack, and DevRel engineering roles.*  
+Reach out at: [vkumarverma670@gmail.com](mailto:vkumarverma670@gmail.com)
