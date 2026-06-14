@@ -126,7 +126,7 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
     </td>
     <td align="center" width="25%">
       <h3>Backend</h3>
-      <p><img src="https://skillicons.dev/icons?i=nodejs,express,php" height="56" /></p>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,redis" height="56" /></p>
     </td>
     <td align="center" width="25%">
       <h3>Data & Tools</h3>
@@ -142,7 +142,7 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
 <table>
   <tr>
     <td align="center"><b>Frontend</b><br/>React, Next.js, Tailwind, responsive UI</td>
-    <td align="center"><b>Backend</b><br/>Node.js, Express, REST APIs, auth, queues</td>
+    <td align="center"><b>Backend</b><br/>Node.js, Express, TypeScript, REST APIs, auth, queues</td>
     <td align="center"><b>Data</b><br/>MongoDB, MySQL, Redis, caching</td>
     <td align="center"><b>DevRel</b><br/>Community, events, workshops, content</td>
   </tr>
@@ -186,8 +186,8 @@ I’m currently a **Developer Relations Manager at DevNovate** and the **Preside
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Ecommerce Multivendor</h3>
-      <p>Multi-vendor ecommerce platform with product listing, details, dashboards, forms, and responsive UI.</p>
+      <h3>Ecommerce Multivendor <span style="font-size:0.8em;">(Earlier Project)</span></h3>
+      <p>Multi-vendor ecommerce platform with product listing, details, dashboards, forms, and responsive UI. Kept here as an earlier build, not my current primary stack.</p>
       <p><b>Stack:</b> PHP, MySQLi, Bootstrap, JavaScript</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square" />
