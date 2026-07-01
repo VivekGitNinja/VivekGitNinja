@@ -12,6 +12,10 @@
 ---
 
 ### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,java,cpp,react,nextjs,tailwind,nodejs,express,mongodb,redis,mysql,docker,git,github,vercel,postman" alt="Tech Stack Logos" />
+</p>
+
 ```yaml
 Languages:   TypeScript, Python, Java, C++
 Backend:     Node.js, Express, Redis, BullMQ, REST, WebSockets
