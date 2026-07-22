@@ -24,3 +24,18 @@ Backend:         Node.js, Express.js, REST APIs, RBAC Authentication, API Integr
 Database/Tools:  MongoDB, MySQL, Redis, BullMQ, Git, GitHub, Postman, VS Code, XAMPP, Docker, Vercel
 AI/ML:           scikit-learn, Streamlit, Gemini API, Retrieval Augmented Generation (RAG), Prompt Engineering
 CS Fundamentals: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems
+```
+Flagship Architectures
+
+**NX-913** | *AI Hackathon Infrastructure*  
+Built a production-grade event platform handling registrations, multi-tier RBAC admin approvals, certificate generation, and an AI assistant.  
+`Next.js` `TypeScript` `Node.js` `Redis` `BullMQ` `RAG`
+
+**Veda-AI** | *Async AI Assignment Platform*  
+Designed an asynchronous AI workflow with prompt-based generation, PDF export, queue workers, and real-time WebSocket progress telemetry.  
+`Next.js` `Express TS` `MongoDB` `Redis` `BullMQ` `Gemini API`
+
+**DiseaseAI** | *ML Diagnostic Engine*  
+Machine learning inference engine for diabetes, heart disease, and Parkinson’s prediction with a real-time Streamlit UI.  
+`Python` `scikit-learn` `Streamlit`
+
