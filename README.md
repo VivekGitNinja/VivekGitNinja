@@ -24,26 +24,3 @@ Backend:         Node.js, Express.js, REST APIs, RBAC Authentication, API Integr
 Database/Tools:  MongoDB, MySQL, Redis, BullMQ, Git, GitHub, Postman, VS Code, XAMPP, Docker, Vercel
 AI/ML:           scikit-learn, Streamlit, Gemini API, Retrieval Augmented Generation (RAG), Prompt Engineering
 CS Fundamentals: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems
-### 📈 System Metrics
-*Live data cached and pulled dynamically via GitHub's API.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekGitNinja&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=0A66C2&text_color=333333" height="140" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=VivekGitNinja&hide_border=true&background=ffffff&ring=000000&fire=0A66C2&currStreakLabel=000000&sideLabels=333333&dates=333333&currStreakNum=0A66C2" height="140" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekGitNinja&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" height="140" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=VivekGitNinja&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=4" height="140" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekGitNinja&bg_color=ffffff&color=0A66C2&line=0A66C2&point=000000&area=true&hide_border=true" width="90%" alt="Contribution Graph" />
-</p>
-
----
-
-<div align="center">
-  <i>“Architecting the future, one commit at a time.”</i>
-  <br/><b>Open to SDE | Full-Stack | AI/DevRel opportunities.</b>
-</div>
