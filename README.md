@@ -39,3 +39,7 @@ Designed an asynchronous AI workflow with prompt-based generation, PDF export, q
 Machine learning inference engine for diabetes, heart disease, and Parkinson’s prediction with a real-time Streamlit UI.  
 `Python` `scikit-learn` `Streamlit`
 
+**School-ERP** | *Enterprise Multi-Tenant SaaS Platform*  
+Engineered a commercial-grade, multi-tenant educational ERP supporting institutions with strict cryptographic tenant isolation, bilingual report cards, automated fees ledger, and 580+ passing integration tests.  
+`Node.js` `Express` `PostgreSQL` `React` `Vite` `Tailwind CSS`
+
