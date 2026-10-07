@@ -1,45 +1,39 @@
 # Vivek Kumar Verma
-**Full-Stack Architect | Backend Systems | AI Engineer**
 
-> Architecting high-performance web platforms, asynchronous backend systems, and AI-driven workflows. Currently building NX-913 (AI hackathon infrastructure) and leading a 700+ member developer community as President of HackWithIndia NIET.
+### Developer Relations Manager & Full-Stack AI Engineer | Founder of NX-913
 
-[![Website](https://img.shields.io/badge/Website-vivekverma.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://vivekverma.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekumarverma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VivekGitNinja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vkumarverma670@gmail.com)
+Hi, I'm **Vivek Kumar Verma** (also known as **VivekGitNinja**) — a Developer Relations Manager, Full-Stack AI Engineer, and tech community leader based in Greater Noida, India.
 
----
+🌐 **Portfolio:** https://vivekverma.dev/
+📫 **Email:** vkumarverma670@gmail.com
 
-### 🛠 Tech Stack & Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,react,nextjs,html,css,bootstrap,tailwind&theme=dark" alt="Languages and Frontend" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,git,github,postman,vscode,docker,vercel&theme=dark" alt="Backend, Database, and Tools" />
-</p>
+## 👨‍💻 About Me
 
-```yaml
-Languages:       Java, Python, JavaScript, TypeScript, C
-Frontend:        React.js, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Responsive Web Design
-Backend:         Node.js, Express.js, REST APIs, RBAC Authentication, API Integration, Testing, Debugging
-Database/Tools:  MongoDB, MySQL, Redis, BullMQ, Git, GitHub, Postman, VS Code, XAMPP, Docker, Vercel
-AI/ML:           scikit-learn, Streamlit, Gemini API, Retrieval Augmented Generation (RAG), Prompt Engineering
-CS Fundamentals: Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems
-```
-Flagship Architectures
+- 💼 **Developer Relations Manager** at DevNovate Technologies (Remote)
+- 🛠️ **Software Development Intern** at Techxoetic LLC, Dubai (Remote)
+- 🚀 **Founder of NX-913** — Event & Hackathon Management Platform ([nx-913.com](https://nx-913.com))
+- 👥 **Chapter President** of HackWithIndia NIET — 700+ member developer community
+- 🎓 B.Tech Computer Science Engineering, Noida Institute of Engineering & Technology (2023–2027)
 
-**NX-913** | *AI Hackathon Infrastructure*  
-Built a production-grade event platform handling registrations, multi-tier RBAC admin approvals, certificate generation, and an AI assistant.  
-`Next.js` `TypeScript` `Node.js` `Redis` `BullMQ` `RAG`
+## 🧰 Tech Stack
 
-**Veda-AI** | *Async AI Assignment Platform*  
-Designed an asynchronous AI workflow with prompt-based generation, PDF export, queue workers, and real-time WebSocket progress telemetry.  
-`Next.js` `Express TS` `MongoDB` `Redis` `BullMQ` `Gemini API`
+**Languages:** Java, Python, JavaScript, TypeScript, C
+**Frontend:** React.js, Next.js, Tailwind CSS
+**Backend:** Node.js, Express.js, FastAPI
+**Databases:** MongoDB, MySQL, Redis
+**AI/ML:** Google Gemini API, RAG Systems, scikit-learn, Streamlit
+**Tools:** Git, GitHub, Docker, BullMQ, Postman
 
-**DiseaseAI** | *ML Diagnostic Engine*  
-Machine learning inference engine for diabetes, heart disease, and Parkinson’s prediction with a real-time Streamlit UI.  
-`Python` `scikit-learn` `Streamlit`
+## 📌 Featured Projects
 
-**School-ERP** | *Enterprise Multi-Tenant SaaS Platform*  
-Engineered a commercial-grade, multi-tenant educational ERP supporting institutions with strict cryptographic tenant isolation, bilingual report cards, automated fees ledger, and 580+ passing integration tests.  
-`Node.js` `Express` `PostgreSQL` `React` `Vite` `Tailwind CSS`
+- **[NX-913 Platform](https://nx-913.com)** — Full-stack hackathon & event management platform (Next.js, TypeScript, MongoDB, Redis, BullMQ, Gemini API)
+- **DispatchDesk** — AI-powered sales inbox router (Python, FastAPI, Gemini, Docker)
+- **Veda-AI** — Academic assessment platform
+- **Multi-Disease Prediction System** — ML medical diagnosis assistant (scikit-learn, Streamlit)
 
+## 🔗 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vivekumarverma
+- 🐦 X (Twitter): https://x.com/_vivek_33/
+- 📸 Instagram: https://www.instagram.com/_.vivek_33/
+- 🌐 Portfolio: https://vivekverma.dev/
